@@ -1,5 +1,5 @@
 # Data-Polynomial-Algorithm-for-Minimal-1-2-Dominating-Set-in-Networks
-Data for paper Polynomial Algorithm for Minimal (1,2)-Dominating Set in Networks
+Data analyzed in paper Polynomial Algorithm for Minimal (1,2)-Dominating Set in Networks
 
 - cubic graphs, first column: number of nodes, second column: size of the minimal set returned by the algorithm Minimal_12_Set, the last column: the result given by the random algorithm
 
